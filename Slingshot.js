@@ -1,0 +1,5 @@
+class Slingshot{
+    constructor(){
+        
+    }
+}
